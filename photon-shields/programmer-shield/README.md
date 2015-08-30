@@ -25,7 +25,7 @@ So the trick is to disable only one of the driver entries by commenting it out i
 
 `/System/Library/Extensions/IOUSBFamily.kext/Contents/PlugIns/AppleUSBFTDI.kext/Contents/Info.plist`
 
-![](https://github.com/spark/photon-shields/blob/master/programmer-shield/kext-modify.png)
+![](https://github.com/spark/shields/blob/master/photon-shields/programmer-shield/kext-modify.png)
 
 You'll need to restart your machine now. I had to shutdown my computer and start it again for the changes to get updated.
 
